@@ -50,6 +50,7 @@ class address {
 }
 
 void main() {
+  print("Hello from the other side");
   var emp = new employee();
   emp.inputData("Adam");
 
