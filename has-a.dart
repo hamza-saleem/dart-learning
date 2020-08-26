@@ -15,7 +15,7 @@ class employee {
   // }
 }
 
-// class manager {
+// class manager {git push -u origin master
 //   String managerName;
 //   void inputData(String n) {
 //     managerName = n;
@@ -54,7 +54,7 @@ void main() {
   emp.inputData("Adam");
 
   var a1 = new address();
-  a1.inputData(2, "Neville Town", "H1", "Adelaide");
+  a1.inputData(2, "Wapda Town", "H1", "Adelaide");
 
   emp.employeeInfo(a1);
   // var m = new manager();
