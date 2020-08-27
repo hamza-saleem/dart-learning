@@ -15,7 +15,7 @@ class employee {
   // }
 }
 
-// class manager {git push -u origin master
+// class manager {
 //   String managerName;
 //   void inputData(String n) {
 //     managerName = n;

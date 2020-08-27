@@ -16,7 +16,7 @@ abstract class vehicle {
   String _brand, _name;
   dynamic _model;
   int _price;
-  void setter(String b, String n, dynamic m, int p);
+  void setter(String b, String n, m, int p);
 
   void getter();
 }
